@@ -1,0 +1,38 @@
+.card{
+    border : 1px solid #eee;
+    width: 30%;
+    display: inline-block;
+    margin-right: 20px;
+    margin-bottom : 20px;
+    
+    
+}
+.card-image{
+    background-color: #eee;
+    text-align : center;
+    height: 190px;
+}
+.card-content{
+    padding : 10px;
+}
+.card-title{
+    font: bold 20px Roboto;
+    position: relative;
+    top: -12px;
+    right: 199px;
+}
+.prod-image{
+    height: 151px;
+    width: 140px;
+    position: relative;
+    left: 41px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.material-icons{
+    font: normal 13px Roboto;
+    color: #2914da;
+    position: relative;
+    top: -11px;
+    left: 43px;
+}

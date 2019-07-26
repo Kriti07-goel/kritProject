@@ -1,0 +1,21 @@
+.nav-wrapper{
+    background-color:#673AB7;
+    color : #fff;
+    height : 40px;
+}
+.right{
+    float : right;
+}
+.disp-inline{
+    display: inline-block;
+    
+}
+.margin-right-20{
+    margin-right: 20px;
+}
+.margin-top-10{
+    margin-top : 10px ;
+}
+.font-color{
+    color : #fff;
+}
